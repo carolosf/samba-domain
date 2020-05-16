@@ -1,4 +1,4 @@
-FROM ubuntu:xenial
+FROM debian
 MAINTAINER Fmstrat <fmstrat@NOSPAM.NO>
 
 ENV DEBIAN_FRONTEND noninteractive
